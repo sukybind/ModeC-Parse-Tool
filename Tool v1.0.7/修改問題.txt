@@ -1,0 +1,4 @@
+Area1~4
+Total Item 多 1
+
+修改後: Total Item -1

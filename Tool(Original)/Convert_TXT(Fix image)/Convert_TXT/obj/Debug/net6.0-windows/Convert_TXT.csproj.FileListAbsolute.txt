@@ -1,0 +1,96 @@
+C:\Users\admin\source\repos\Convert_TXT\Convert_TXT\bin\Debug\net6.0-windows\Convert_TXT.exe
+C:\Users\admin\source\repos\Convert_TXT\Convert_TXT\bin\Debug\net6.0-windows\Convert_TXT.deps.json
+C:\Users\admin\source\repos\Convert_TXT\Convert_TXT\bin\Debug\net6.0-windows\Convert_TXT.runtimeconfig.json
+C:\Users\admin\source\repos\Convert_TXT\Convert_TXT\bin\Debug\net6.0-windows\Convert_TXT.dll
+C:\Users\admin\source\repos\Convert_TXT\Convert_TXT\bin\Debug\net6.0-windows\Convert_TXT.pdb
+C:\Users\admin\source\repos\Convert_TXT\Convert_TXT\obj\Debug\net6.0-windows\Convert_TXT.csproj.AssemblyReference.cache
+C:\Users\admin\source\repos\Convert_TXT\Convert_TXT\obj\Debug\net6.0-windows\Convert_TXT.Form1.resources
+C:\Users\admin\source\repos\Convert_TXT\Convert_TXT\obj\Debug\net6.0-windows\Convert_TXT.csproj.GenerateResource.cache
+C:\Users\admin\source\repos\Convert_TXT\Convert_TXT\obj\Debug\net6.0-windows\Convert_TXT.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\source\repos\Convert_TXT\Convert_TXT\obj\Debug\net6.0-windows\Convert_TXT.AssemblyInfoInputs.cache
+C:\Users\admin\source\repos\Convert_TXT\Convert_TXT\obj\Debug\net6.0-windows\Convert_TXT.AssemblyInfo.cs
+C:\Users\admin\source\repos\Convert_TXT\Convert_TXT\obj\Debug\net6.0-windows\Convert_TXT.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\Convert_TXT\Convert_TXT\obj\Debug\net6.0-windows\Convert_TXT.dll
+C:\Users\admin\source\repos\Convert_TXT\Convert_TXT\obj\Debug\net6.0-windows\refint\Convert_TXT.dll
+C:\Users\admin\source\repos\Convert_TXT\Convert_TXT\obj\Debug\net6.0-windows\Convert_TXT.pdb
+C:\Users\admin\source\repos\Convert_TXT\Convert_TXT\obj\Debug\net6.0-windows\Convert_TXT.genruntimeconfig.cache
+C:\Users\admin\source\repos\Convert_TXT\Convert_TXT\obj\Debug\net6.0-windows\ref\Convert_TXT.dll
+D:\Desktop\Convert_TXT\Convert_TXT\bin\Debug\net6.0-windows\Convert_TXT.exe
+D:\Desktop\Convert_TXT\Convert_TXT\bin\Debug\net6.0-windows\Convert_TXT.deps.json
+D:\Desktop\Convert_TXT\Convert_TXT\bin\Debug\net6.0-windows\Convert_TXT.runtimeconfig.json
+D:\Desktop\Convert_TXT\Convert_TXT\bin\Debug\net6.0-windows\Convert_TXT.dll
+D:\Desktop\Convert_TXT\Convert_TXT\bin\Debug\net6.0-windows\Convert_TXT.pdb
+D:\Desktop\Convert_TXT\Convert_TXT\obj\Debug\net6.0-windows\Convert_TXT.Form1.resources
+D:\Desktop\Convert_TXT\Convert_TXT\obj\Debug\net6.0-windows\Convert_TXT.csproj.GenerateResource.cache
+D:\Desktop\Convert_TXT\Convert_TXT\obj\Debug\net6.0-windows\Convert_TXT.GeneratedMSBuildEditorConfig.editorconfig
+D:\Desktop\Convert_TXT\Convert_TXT\obj\Debug\net6.0-windows\Convert_TXT.AssemblyInfoInputs.cache
+D:\Desktop\Convert_TXT\Convert_TXT\obj\Debug\net6.0-windows\Convert_TXT.AssemblyInfo.cs
+D:\Desktop\Convert_TXT\Convert_TXT\obj\Debug\net6.0-windows\Convert_TXT.csproj.CoreCompileInputs.cache
+D:\Desktop\Convert_TXT\Convert_TXT\obj\Debug\net6.0-windows\Convert_TXT.dll
+D:\Desktop\Convert_TXT\Convert_TXT\obj\Debug\net6.0-windows\refint\Convert_TXT.dll
+D:\Desktop\Convert_TXT\Convert_TXT\obj\Debug\net6.0-windows\Convert_TXT.pdb
+D:\Desktop\Convert_TXT\Convert_TXT\obj\Debug\net6.0-windows\Convert_TXT.genruntimeconfig.cache
+D:\Desktop\Convert_TXT\Convert_TXT\obj\Debug\net6.0-windows\ref\Convert_TXT.dll
+C:\Users\admin\Desktop\Convert_TXT\Convert_TXT\bin\Debug\net6.0-windows\Convert_TXT.exe
+C:\Users\admin\Desktop\Convert_TXT\Convert_TXT\bin\Debug\net6.0-windows\Convert_TXT.deps.json
+C:\Users\admin\Desktop\Convert_TXT\Convert_TXT\bin\Debug\net6.0-windows\Convert_TXT.runtimeconfig.json
+C:\Users\admin\Desktop\Convert_TXT\Convert_TXT\bin\Debug\net6.0-windows\Convert_TXT.dll
+C:\Users\admin\Desktop\Convert_TXT\Convert_TXT\bin\Debug\net6.0-windows\Convert_TXT.pdb
+C:\Users\admin\Desktop\Convert_TXT\Convert_TXT\obj\Debug\net6.0-windows\Convert_TXT.csproj.AssemblyReference.cache
+C:\Users\admin\Desktop\Convert_TXT\Convert_TXT\obj\Debug\net6.0-windows\Convert_TXT.Form1.resources
+C:\Users\admin\Desktop\Convert_TXT\Convert_TXT\obj\Debug\net6.0-windows\Convert_TXT.csproj.GenerateResource.cache
+C:\Users\admin\Desktop\Convert_TXT\Convert_TXT\obj\Debug\net6.0-windows\Convert_TXT.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\Desktop\Convert_TXT\Convert_TXT\obj\Debug\net6.0-windows\Convert_TXT.AssemblyInfoInputs.cache
+C:\Users\admin\Desktop\Convert_TXT\Convert_TXT\obj\Debug\net6.0-windows\Convert_TXT.AssemblyInfo.cs
+C:\Users\admin\Desktop\Convert_TXT\Convert_TXT\obj\Debug\net6.0-windows\Convert_TXT.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\Convert_TXT\Convert_TXT\obj\Debug\net6.0-windows\Convert_TXT.dll
+C:\Users\admin\Desktop\Convert_TXT\Convert_TXT\obj\Debug\net6.0-windows\refint\Convert_TXT.dll
+C:\Users\admin\Desktop\Convert_TXT\Convert_TXT\obj\Debug\net6.0-windows\Convert_TXT.pdb
+C:\Users\admin\Desktop\Convert_TXT\Convert_TXT\obj\Debug\net6.0-windows\Convert_TXT.genruntimeconfig.cache
+C:\Users\admin\Desktop\Convert_TXT\Convert_TXT\obj\Debug\net6.0-windows\ref\Convert_TXT.dll
+C:\Users\admin\Desktop\Convert_TXT\Convert_TXT\obj\Debug\net6.0-windows\Convert_TXT.csproj.CopyComplete
+C:\Users\admin\Desktop\Convert_TXT\Convert_TXT\bin\Debug\net6.0-windows\Aspose.Cells.dll
+C:\Users\admin\Desktop\Convert_TXT\Convert_TXT\bin\Debug\net6.0-windows\System.Security.Cryptography.Pkcs.dll
+C:\Users\admin\Desktop\Convert_TXT\Convert_TXT\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Security.Cryptography.Pkcs.dll
+C:\Users\admin\Desktop\Convert_TXT(Original)\Convert_TXT\bin\Debug\net6.0-windows\Convert_TXT.exe
+C:\Users\admin\Desktop\Convert_TXT(Original)\Convert_TXT\bin\Debug\net6.0-windows\Convert_TXT.deps.json
+C:\Users\admin\Desktop\Convert_TXT(Original)\Convert_TXT\bin\Debug\net6.0-windows\Convert_TXT.runtimeconfig.json
+C:\Users\admin\Desktop\Convert_TXT(Original)\Convert_TXT\bin\Debug\net6.0-windows\Convert_TXT.dll
+C:\Users\admin\Desktop\Convert_TXT(Original)\Convert_TXT\bin\Debug\net6.0-windows\Convert_TXT.pdb
+C:\Users\admin\Desktop\Convert_TXT(Original)\Convert_TXT\bin\Debug\net6.0-windows\Aspose.Cells.dll
+C:\Users\admin\Desktop\Convert_TXT(Original)\Convert_TXT\bin\Debug\net6.0-windows\System.Security.Cryptography.Pkcs.dll
+C:\Users\admin\Desktop\Convert_TXT(Original)\Convert_TXT\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Security.Cryptography.Pkcs.dll
+C:\Users\admin\Desktop\Convert_TXT(Original)\Convert_TXT\obj\Debug\net6.0-windows\Convert_TXT.csproj.AssemblyReference.cache
+C:\Users\admin\Desktop\Convert_TXT(Original)\Convert_TXT\obj\Debug\net6.0-windows\Convert_TXT.Form1.resources
+C:\Users\admin\Desktop\Convert_TXT(Original)\Convert_TXT\obj\Debug\net6.0-windows\Convert_TXT.csproj.GenerateResource.cache
+C:\Users\admin\Desktop\Convert_TXT(Original)\Convert_TXT\obj\Debug\net6.0-windows\Convert_TXT.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\Desktop\Convert_TXT(Original)\Convert_TXT\obj\Debug\net6.0-windows\Convert_TXT.AssemblyInfoInputs.cache
+C:\Users\admin\Desktop\Convert_TXT(Original)\Convert_TXT\obj\Debug\net6.0-windows\Convert_TXT.AssemblyInfo.cs
+C:\Users\admin\Desktop\Convert_TXT(Original)\Convert_TXT\obj\Debug\net6.0-windows\Convert_TXT.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\Convert_TXT(Original)\Convert_TXT\obj\Debug\net6.0-windows\Convert_TXT.csproj.CopyComplete
+C:\Users\admin\Desktop\Convert_TXT(Original)\Convert_TXT\obj\Debug\net6.0-windows\Convert_TXT.dll
+C:\Users\admin\Desktop\Convert_TXT(Original)\Convert_TXT\obj\Debug\net6.0-windows\refint\Convert_TXT.dll
+C:\Users\admin\Desktop\Convert_TXT(Original)\Convert_TXT\obj\Debug\net6.0-windows\Convert_TXT.pdb
+C:\Users\admin\Desktop\Convert_TXT(Original)\Convert_TXT\obj\Debug\net6.0-windows\Convert_TXT.genruntimeconfig.cache
+C:\Users\admin\Desktop\Convert_TXT(Original)\Convert_TXT\obj\Debug\net6.0-windows\ref\Convert_TXT.dll
+C:\Users\admin\Desktop\Convert_TXT(Fix image)\Convert_TXT\bin\Debug\net6.0-windows\Convert_TXT.exe
+C:\Users\admin\Desktop\Convert_TXT(Fix image)\Convert_TXT\bin\Debug\net6.0-windows\Convert_TXT.deps.json
+C:\Users\admin\Desktop\Convert_TXT(Fix image)\Convert_TXT\bin\Debug\net6.0-windows\Convert_TXT.runtimeconfig.json
+C:\Users\admin\Desktop\Convert_TXT(Fix image)\Convert_TXT\bin\Debug\net6.0-windows\Convert_TXT.dll
+C:\Users\admin\Desktop\Convert_TXT(Fix image)\Convert_TXT\bin\Debug\net6.0-windows\Convert_TXT.pdb
+C:\Users\admin\Desktop\Convert_TXT(Fix image)\Convert_TXT\bin\Debug\net6.0-windows\Aspose.Cells.dll
+C:\Users\admin\Desktop\Convert_TXT(Fix image)\Convert_TXT\bin\Debug\net6.0-windows\System.Security.Cryptography.Pkcs.dll
+C:\Users\admin\Desktop\Convert_TXT(Fix image)\Convert_TXT\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Security.Cryptography.Pkcs.dll
+C:\Users\admin\Desktop\Convert_TXT(Fix image)\Convert_TXT\obj\Debug\net6.0-windows\Convert_TXT.csproj.AssemblyReference.cache
+C:\Users\admin\Desktop\Convert_TXT(Fix image)\Convert_TXT\obj\Debug\net6.0-windows\Convert_TXT.Form1.resources
+C:\Users\admin\Desktop\Convert_TXT(Fix image)\Convert_TXT\obj\Debug\net6.0-windows\Convert_TXT.csproj.GenerateResource.cache
+C:\Users\admin\Desktop\Convert_TXT(Fix image)\Convert_TXT\obj\Debug\net6.0-windows\Convert_TXT.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\Desktop\Convert_TXT(Fix image)\Convert_TXT\obj\Debug\net6.0-windows\Convert_TXT.AssemblyInfoInputs.cache
+C:\Users\admin\Desktop\Convert_TXT(Fix image)\Convert_TXT\obj\Debug\net6.0-windows\Convert_TXT.AssemblyInfo.cs
+C:\Users\admin\Desktop\Convert_TXT(Fix image)\Convert_TXT\obj\Debug\net6.0-windows\Convert_TXT.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\Convert_TXT(Fix image)\Convert_TXT\obj\Debug\net6.0-windows\Convert_TXT.csproj.CopyComplete
+C:\Users\admin\Desktop\Convert_TXT(Fix image)\Convert_TXT\obj\Debug\net6.0-windows\Convert_TXT.dll
+C:\Users\admin\Desktop\Convert_TXT(Fix image)\Convert_TXT\obj\Debug\net6.0-windows\refint\Convert_TXT.dll
+C:\Users\admin\Desktop\Convert_TXT(Fix image)\Convert_TXT\obj\Debug\net6.0-windows\Convert_TXT.pdb
+C:\Users\admin\Desktop\Convert_TXT(Fix image)\Convert_TXT\obj\Debug\net6.0-windows\Convert_TXT.genruntimeconfig.cache
+C:\Users\admin\Desktop\Convert_TXT(Fix image)\Convert_TXT\obj\Debug\net6.0-windows\ref\Convert_TXT.dll

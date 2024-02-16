@@ -1,0 +1,6 @@
+Area1~4
+平均值計算從item1開始計算改成item2開始
+
+Area3
+total item把自身也加進去做計算
+所以total item 要加一

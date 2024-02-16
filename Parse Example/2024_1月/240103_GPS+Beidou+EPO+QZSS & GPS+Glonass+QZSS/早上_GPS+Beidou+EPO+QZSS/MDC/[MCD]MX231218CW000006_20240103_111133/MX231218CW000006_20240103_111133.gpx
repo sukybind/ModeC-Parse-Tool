@@ -1,0 +1,691 @@
+<?xml version="1.0"?>
+<gpx version="1.1">
+<name>MinXIn</name>
+<trk>
+<name>MX231218CW000006</name>
+<trkseg>
+    <trkpt lat="89.9999989" lon="0.0000000">
+        <node>1</node>
+        <fix>0</fix>
+        <mode>9102</mode>
+        <time>1980-01-05T23:59:56Z</time>
+        <ele>137</ele>
+        <speed>0</speed>
+        <heading>0.00</heading>
+        <sat>0</sat>
+        <status>9102</status>
+    </trkpt>
+    <trkpt lat="89.9999989" lon="0.0000000">
+        <node>2</node>
+        <fix>0</fix>
+        <mode>9101</mode>
+        <time>1980-01-09T02:10:27Z</time>
+        <ele>137</ele>
+        <speed>0</speed>
+        <heading>0.00</heading>
+        <sat>0</sat>
+        <status>9101</status>
+    </trkpt>
+    <trkpt lat="89.9999989" lon="0.0000000">
+        <node>3</node>
+        <fix>0</fix>
+        <mode>9102</mode>
+        <time>1980-01-09T02:10:41Z</time>
+        <ele>137</ele>
+        <speed>0</speed>
+        <heading>0.00</heading>
+        <sat>0</sat>
+        <status>9102</status>
+    </trkpt>
+    <trkpt lat="89.9999989" lon="0.0000000">
+        <node>4</node>
+        <fix>0</fix>
+        <mode>9102</mode>
+        <time>1980-01-09T02:10:54Z</time>
+        <ele>137</ele>
+        <speed>0</speed>
+        <heading>0.00</heading>
+        <sat>0</sat>
+        <status>9102</status>
+    </trkpt>
+    <trkpt lat="89.9999989" lon="0.0000000">
+        <node>5</node>
+        <fix>0</fix>
+        <mode>9102</mode>
+        <time>1980-01-09T02:11:06Z</time>
+        <ele>137</ele>
+        <speed>0</speed>
+        <heading>0.00</heading>
+        <sat>0</sat>
+        <status>9102</status>
+    </trkpt>
+    <trkpt lat="89.9999989" lon="0.0000000">
+        <node>6</node>
+        <fix>0</fix>
+        <mode>9102</mode>
+        <time>1980-01-09T02:11:19Z</time>
+        <ele>137</ele>
+        <speed>0</speed>
+        <heading>0.00</heading>
+        <sat>0</sat>
+        <status>9102</status>
+    </trkpt>
+    <trkpt lat="89.9999989" lon="0.0000000">
+        <node>7</node>
+        <fix>0</fix>
+        <mode>9102</mode>
+        <time>1980-01-09T02:11:32Z</time>
+        <ele>137</ele>
+        <speed>0</speed>
+        <heading>0.00</heading>
+        <sat>0</sat>
+        <status>9102</status>
+    </trkpt>
+    <trkpt lat="89.9999989" lon="0.0000000">
+        <node>8</node>
+        <fix>0</fix>
+        <mode>9102</mode>
+        <time>1980-01-09T02:11:45Z</time>
+        <ele>137</ele>
+        <speed>0</speed>
+        <heading>0.00</heading>
+        <sat>0</sat>
+        <status>9102</status>
+    </trkpt>
+    <trkpt lat="24.4904275" lon="120.6802900">
+        <node>9</node>
+        <fix>1</fix>
+        <mode>9102</mode>
+        <time>2024-01-03T02:11:58Z</time>
+        <ele>103</ele>
+        <speed>13</speed>
+        <heading>13.73</heading>
+        <sat>7</sat>
+        <status>9102</status>
+    </trkpt>
+    <trkpt lat="24.4888210" lon="120.6781929">
+        <node>10</node>
+        <fix>1</fix>
+        <mode>9102</mode>
+        <time>2024-01-03T02:12:13Z</time>
+        <ele>114</ele>
+        <speed>25</speed>
+        <heading>193.66</heading>
+        <sat>9</sat>
+        <status>9102</status>
+    </trkpt>
+    <trkpt lat="24.4858730" lon="120.6761329">
+        <node>11</node>
+        <fix>1</fix>
+        <mode>9102</mode>
+        <time>2024-01-03T02:12:28Z</time>
+        <ele>127</ele>
+        <speed>18</speed>
+        <heading>249.73</heading>
+        <sat>9</sat>
+        <status>9102</status>
+    </trkpt>
+    <trkpt lat="24.4867600" lon="120.6776796">
+        <node>12</node>
+        <fix>1</fix>
+        <mode>9102</mode>
+        <time>2024-01-03T02:12:43Z</time>
+        <ele>95</ele>
+        <speed>16</speed>
+        <heading>19.40</heading>
+        <sat>10</sat>
+        <status>9102</status>
+    </trkpt>
+    <trkpt lat="24.4890113" lon="120.6784144">
+        <node>13</node>
+        <fix>1</fix>
+        <mode>9102</mode>
+        <time>2024-01-03T02:12:58Z</time>
+        <ele>90</ele>
+        <speed>18</speed>
+        <heading>347.73</heading>
+        <sat>11</sat>
+        <status>9102</status>
+    </trkpt>
+    <trkpt lat="24.4916145" lon="120.6784971">
+        <node>14</node>
+        <fix>1</fix>
+        <mode>9102</mode>
+        <time>2024-01-03T02:13:13Z</time>
+        <ele>67</ele>
+        <speed>18</speed>
+        <heading>18.63</heading>
+        <sat>11</sat>
+        <status>9102</status>
+    </trkpt>
+    <trkpt lat="24.4918567" lon="120.6807292">
+        <node>15</node>
+        <fix>1</fix>
+        <mode>9102</mode>
+        <time>2024-01-03T02:13:28Z</time>
+        <ele>89</ele>
+        <speed>18</speed>
+        <heading>104.79</heading>
+        <sat>12</sat>
+        <status>9102</status>
+    </trkpt>
+    <trkpt lat="24.4907547" lon="120.6799297">
+        <node>16</node>
+        <fix>1</fix>
+        <mode>9102</mode>
+        <time>2024-01-03T02:13:43Z</time>
+        <ele>114</ele>
+        <speed>8</speed>
+        <heading>99.43</heading>
+        <sat>12</sat>
+        <status>9102</status>
+    </trkpt>
+    <trkpt lat="24.4894948" lon="120.6795018">
+        <node>17</node>
+        <fix>1</fix>
+        <mode>9102</mode>
+        <time>2024-01-03T02:13:58Z</time>
+        <ele>117</ele>
+        <speed>12</speed>
+        <heading>4.65</heading>
+        <sat>12</sat>
+        <status>9102</status>
+    </trkpt>
+    <trkpt lat="24.4880966" lon="120.6806265">
+        <node>18</node>
+        <fix>1</fix>
+        <mode>9102</mode>
+        <time>2024-01-03T02:14:13Z</time>
+        <ele>125</ele>
+        <speed>24</speed>
+        <heading>167.81</heading>
+        <sat>12</sat>
+        <status>9102</status>
+    </trkpt>
+    <trkpt lat="24.4916684" lon="120.6781463">
+        <node>19</node>
+        <fix>1</fix>
+        <mode>9202</mode>
+        <time>2024-01-03T02:16:29Z</time>
+        <ele>102</ele>
+        <speed>6</speed>
+        <heading>236.16</heading>
+        <sat>13</sat>
+        <status>9202</status>
+    </trkpt>
+    <trkpt lat="24.4876065" lon="120.6793977">
+        <node>20</node>
+        <fix>1</fix>
+        <mode>9202</mode>
+        <time>2024-01-03T02:16:44Z</time>
+        <ele>108</ele>
+        <speed>25</speed>
+        <heading>143.33</heading>
+        <sat>13</sat>
+        <status>9202</status>
+    </trkpt>
+    <trkpt lat="24.4821556" lon="120.6833928">
+        <node>21</node>
+        <fix>1</fix>
+        <mode>9202</mode>
+        <time>2024-01-03T02:19:00Z</time>
+        <ele>104</ele>
+        <speed>18</speed>
+        <heading>70.18</heading>
+        <sat>13</sat>
+        <status>9202</status>
+    </trkpt>
+    <trkpt lat="24.4821610" lon="120.6826629">
+        <node>22</node>
+        <fix>1</fix>
+        <mode>9202</mode>
+        <time>2024-01-03T02:19:15Z</time>
+        <ele>108</ele>
+        <speed>31</speed>
+        <heading>203.02</heading>
+        <sat>14</sat>
+        <status>9202</status>
+    </trkpt>
+    <trkpt lat="24.4635989" lon="120.6815318">
+        <node>23</node>
+        <fix>1</fix>
+        <mode>9202</mode>
+        <time>2024-01-03T02:21:30Z</time>
+        <ele>241</ele>
+        <speed>27</speed>
+        <heading>236.57</heading>
+        <sat>14</sat>
+        <status>9202</status>
+    </trkpt>
+    <trkpt lat="24.4615298" lon="120.6815702">
+        <node>24</node>
+        <fix>1</fix>
+        <mode>9202</mode>
+        <time>2024-01-03T02:21:46Z</time>
+        <ele>231</ele>
+        <speed>32</speed>
+        <heading>184.76</heading>
+        <sat>14</sat>
+        <status>9202</status>
+    </trkpt>
+    <trkpt lat="24.4273528" lon="120.6827185">
+        <node>25</node>
+        <fix>1</fix>
+        <mode>9202</mode>
+        <time>2024-01-03T02:24:01Z</time>
+        <ele>237</ele>
+        <speed>30</speed>
+        <heading>205.25</heading>
+        <sat>14</sat>
+        <status>9202</status>
+    </trkpt>
+    <trkpt lat="24.4233473" lon="120.6820377">
+        <node>26</node>
+        <fix>1</fix>
+        <mode>9202</mode>
+        <time>2024-01-03T02:24:17Z</time>
+        <ele>236</ele>
+        <speed>31</speed>
+        <heading>174.21</heading>
+        <sat>14</sat>
+        <status>9202</status>
+    </trkpt>
+    <trkpt lat="24.3857759" lon="120.6712656">
+        <node>27</node>
+        <fix>1</fix>
+        <mode>9202</mode>
+        <time>2024-01-03T02:26:33Z</time>
+        <ele>301</ele>
+        <speed>33</speed>
+        <heading>182.70</heading>
+        <sat>14</sat>
+        <status>9202</status>
+    </trkpt>
+    <trkpt lat="24.3816615" lon="120.6718397">
+        <node>28</node>
+        <fix>1</fix>
+        <mode>9202</mode>
+        <time>2024-01-03T02:26:48Z</time>
+        <ele>312</ele>
+        <speed>33</speed>
+        <heading>174.94</heading>
+        <sat>14</sat>
+        <status>9202</status>
+    </trkpt>
+    <trkpt lat="24.3417953" lon="120.6740047">
+        <node>29</node>
+        <fix>1</fix>
+        <mode>9202</mode>
+        <time>2024-01-03T02:29:04Z</time>
+        <ele>367</ele>
+        <speed>34</speed>
+        <heading>171.78</heading>
+        <sat>14</sat>
+        <status>9202</status>
+    </trkpt>
+    <trkpt lat="24.3372549" lon="120.6743782">
+        <node>30</node>
+        <fix>1</fix>
+        <mode>9202</mode>
+        <time>2024-01-03T02:29:19Z</time>
+        <ele>380</ele>
+        <speed>29</speed>
+        <heading>164.73</heading>
+        <sat>14</sat>
+        <status>9202</status>
+    </trkpt>
+    <trkpt lat="24.2973929" lon="120.6801055">
+        <node>31</node>
+        <fix>1</fix>
+        <mode>9202</mode>
+        <time>2024-01-03T02:31:35Z</time>
+        <ele>428</ele>
+        <speed>35</speed>
+        <heading>180.22</heading>
+        <sat>15</sat>
+        <status>9202</status>
+    </trkpt>
+    <trkpt lat="24.2926736" lon="120.6796344">
+        <node>32</node>
+        <fix>1</fix>
+        <mode>9202</mode>
+        <time>2024-01-03T02:31:50Z</time>
+        <ele>431</ele>
+        <speed>34</speed>
+        <heading>191.05</heading>
+        <sat>15</sat>
+        <status>9202</status>
+    </trkpt>
+    <trkpt lat="24.2521855" lon="120.6800012">
+        <node>33</node>
+        <fix>1</fix>
+        <mode>9202</mode>
+        <time>2024-01-03T02:34:06Z</time>
+        <ele>392</ele>
+        <speed>28</speed>
+        <heading>171.50</heading>
+        <sat>15</sat>
+        <status>9202</status>
+    </trkpt>
+    <trkpt lat="24.2486408" lon="120.6807190">
+        <node>34</node>
+        <fix>1</fix>
+        <mode>9202</mode>
+        <time>2024-01-03T02:34:21Z</time>
+        <ele>415</ele>
+        <speed>27</speed>
+        <heading>185.50</heading>
+        <sat>17</sat>
+        <status>9202</status>
+    </trkpt>
+    <trkpt lat="24.2260399" lon="120.6856444">
+        <node>35</node>
+        <fix>1</fix>
+        <mode>9202</mode>
+        <time>2024-01-03T02:36:36Z</time>
+        <ele>245</ele>
+        <speed>7</speed>
+        <heading>80.58</heading>
+        <sat>15</sat>
+        <status>9202</status>
+    </trkpt>
+    <trkpt lat="24.2238178" lon="120.6831572">
+        <node>36</node>
+        <fix>1</fix>
+        <mode>9202</mode>
+        <time>2024-01-03T02:36:52Z</time>
+        <ele>219</ele>
+        <speed>14</speed>
+        <heading>282.81</heading>
+        <sat>17</sat>
+        <status>9202</status>
+    </trkpt>
+    <trkpt lat="24.2286240" lon="120.6885294">
+        <node>37</node>
+        <fix>1</fix>
+        <mode>9201</mode>
+        <time>2024-01-03T02:39:08Z</time>
+        <ele>205</ele>
+        <speed>0</speed>
+        <heading>291.03</heading>
+        <sat>13</sat>
+        <status>9201</status>
+    </trkpt>
+    <trkpt lat="24.2287096" lon="120.6884352">
+        <node>38</node>
+        <fix>1</fix>
+        <mode>9201</mode>
+        <time>2024-01-03T02:39:23Z</time>
+        <ele>190</ele>
+        <speed>0</speed>
+        <heading>312.61</heading>
+        <sat>13</sat>
+        <status>9201</status>
+    </trkpt>
+    <trkpt lat="24.2288140" lon="120.6879398">
+        <node>39</node>
+        <fix>1</fix>
+        <mode>9201</mode>
+        <time>2024-01-03T02:41:38Z</time>
+        <ele>188</ele>
+        <speed>0</speed>
+        <heading>59.88</heading>
+        <sat>8</sat>
+        <status>9201</status>
+    </trkpt>
+    <trkpt lat="24.2287450" lon="120.6885060">
+        <node>40</node>
+        <fix>1</fix>
+        <mode>9201</mode>
+        <time>2024-01-03T02:41:54Z</time>
+        <ele>189</ele>
+        <speed>0</speed>
+        <heading>59.88</heading>
+        <sat>12</sat>
+        <status>9201</status>
+    </trkpt>
+    <trkpt lat="24.2287595" lon="120.6884050">
+        <node>41</node>
+        <fix>1</fix>
+        <mode>9201</mode>
+        <time>2024-01-03T02:44:09Z</time>
+        <ele>189</ele>
+        <speed>0</speed>
+        <heading>192.66</heading>
+        <sat>6</sat>
+        <status>9201</status>
+    </trkpt>
+    <trkpt lat="24.2288123" lon="120.6885521">
+        <node>42</node>
+        <fix>1</fix>
+        <mode>9201</mode>
+        <time>2024-01-03T02:44:24Z</time>
+        <ele>189</ele>
+        <speed>0</speed>
+        <heading>192.66</heading>
+        <sat>11</sat>
+        <status>9201</status>
+    </trkpt>
+    <trkpt lat="24.2288385" lon="120.6884738">
+        <node>43</node>
+        <fix>1</fix>
+        <mode>9202</mode>
+        <time>2024-01-03T02:46:40Z</time>
+        <ele>193</ele>
+        <speed>1</speed>
+        <heading>12.46</heading>
+        <sat>8</sat>
+        <status>9202</status>
+    </trkpt>
+    <trkpt lat="24.2286616" lon="120.6884537">
+        <node>44</node>
+        <fix>1</fix>
+        <mode>9202</mode>
+        <time>2024-01-03T02:46:55Z</time>
+        <ele>188</ele>
+        <speed>0</speed>
+        <heading>356.41</heading>
+        <sat>14</sat>
+        <status>9202</status>
+    </trkpt>
+    <trkpt lat="24.2284971" lon="120.6890279">
+        <node>45</node>
+        <fix>1</fix>
+        <mode>9202</mode>
+        <time>2024-01-03T02:49:10Z</time>
+        <ele>188</ele>
+        <speed>0</speed>
+        <heading>154.77</heading>
+        <sat>4</sat>
+        <status>9202</status>
+    </trkpt>
+    <trkpt lat="24.2286700" lon="120.6885805">
+        <node>46</node>
+        <fix>1</fix>
+        <mode>9202</mode>
+        <time>2024-01-03T02:49:26Z</time>
+        <ele>188</ele>
+        <speed>0</speed>
+        <heading>154.77</heading>
+        <sat>9</sat>
+        <status>9202</status>
+    </trkpt>
+    <trkpt lat="24.2287562" lon="120.6885870">
+        <node>47</node>
+        <fix>1</fix>
+        <mode>9202</mode>
+        <time>2024-01-03T02:51:42Z</time>
+        <ele>188</ele>
+        <speed>0</speed>
+        <heading>290.16</heading>
+        <sat>13</sat>
+        <status>9202</status>
+    </trkpt>
+    <trkpt lat="24.2287343" lon="120.6885920">
+        <node>48</node>
+        <fix>1</fix>
+        <mode>9202</mode>
+        <time>2024-01-03T02:51:57Z</time>
+        <ele>188</ele>
+        <speed>0</speed>
+        <heading>290.16</heading>
+        <sat>15</sat>
+        <status>9202</status>
+    </trkpt>
+    <trkpt lat="24.2287703" lon="120.6885707">
+        <node>49</node>
+        <fix>1</fix>
+        <mode>9202</mode>
+        <time>2024-01-03T02:54:13Z</time>
+        <ele>188</ele>
+        <speed>0</speed>
+        <heading>261.43</heading>
+        <sat>8</sat>
+        <status>9202</status>
+    </trkpt>
+    <trkpt lat="24.2287704" lon="120.6886435">
+        <node>50</node>
+        <fix>1</fix>
+        <mode>9202</mode>
+        <time>2024-01-03T02:54:28Z</time>
+        <ele>188</ele>
+        <speed>0</speed>
+        <heading>261.43</heading>
+        <sat>13</sat>
+        <status>9202</status>
+    </trkpt>
+    <trkpt lat="24.2281190" lon="120.6884727">
+        <node>51</node>
+        <fix>1</fix>
+        <mode>9202</mode>
+        <time>2024-01-03T02:56:43Z</time>
+        <ele>188</ele>
+        <speed>0</speed>
+        <heading>0.00</heading>
+        <sat>4</sat>
+        <status>9202</status>
+    </trkpt>
+    <trkpt lat="24.2283628" lon="120.6882217">
+        <node>52</node>
+        <fix>1</fix>
+        <mode>9202</mode>
+        <time>2024-01-03T02:56:58Z</time>
+        <ele>188</ele>
+        <speed>0</speed>
+        <heading>19.43</heading>
+        <sat>11</sat>
+        <status>9202</status>
+    </trkpt>
+    <trkpt lat="24.2283592" lon="120.6882150">
+        <node>53</node>
+        <fix>0</fix>
+        <mode>9202</mode>
+        <time>2024-01-03T02:59:13Z</time>
+        <ele>188</ele>
+        <speed>0</speed>
+        <heading>0.00</heading>
+        <sat>0</sat>
+        <status>9202</status>
+    </trkpt>
+    <trkpt lat="24.2283592" lon="120.6882150">
+        <node>54</node>
+        <fix>0</fix>
+        <mode>9202</mode>
+        <time>2024-01-03T02:59:28Z</time>
+        <ele>188</ele>
+        <speed>0</speed>
+        <heading>0.00</heading>
+        <sat>0</sat>
+        <status>9202</status>
+    </trkpt>
+    <trkpt lat="24.2283592" lon="120.6882150">
+        <node>55</node>
+        <fix>0</fix>
+        <mode>9202</mode>
+        <time>2024-01-03T03:01:43Z</time>
+        <ele>188</ele>
+        <speed>0</speed>
+        <heading>0.00</heading>
+        <sat>0</sat>
+        <status>9202</status>
+    </trkpt>
+    <trkpt lat="24.2283592" lon="120.6882150">
+        <node>56</node>
+        <fix>0</fix>
+        <mode>9202</mode>
+        <time>2024-01-03T03:01:58Z</time>
+        <ele>188</ele>
+        <speed>0</speed>
+        <heading>0.00</heading>
+        <sat>0</sat>
+        <status>9202</status>
+    </trkpt>
+    <trkpt lat="24.2283592" lon="120.6882150">
+        <node>57</node>
+        <fix>0</fix>
+        <mode>9202</mode>
+        <time>2024-01-03T03:04:13Z</time>
+        <ele>188</ele>
+        <speed>0</speed>
+        <heading>0.00</heading>
+        <sat>0</sat>
+        <status>9202</status>
+    </trkpt>
+    <trkpt lat="24.2283592" lon="120.6882150">
+        <node>58</node>
+        <fix>0</fix>
+        <mode>9202</mode>
+        <time>2024-01-03T03:04:28Z</time>
+        <ele>188</ele>
+        <speed>0</speed>
+        <heading>0.00</heading>
+        <sat>0</sat>
+        <status>9202</status>
+    </trkpt>
+    <trkpt lat="24.2283592" lon="120.6882150">
+        <node>59</node>
+        <fix>0</fix>
+        <mode>9202</mode>
+        <time>2024-01-03T03:06:43Z</time>
+        <ele>188</ele>
+        <speed>0</speed>
+        <heading>0.00</heading>
+        <sat>0</sat>
+        <status>9202</status>
+    </trkpt>
+    <trkpt lat="24.2283592" lon="120.6882150">
+        <node>60</node>
+        <fix>0</fix>
+        <mode>9202</mode>
+        <time>2024-01-03T03:06:58Z</time>
+        <ele>188</ele>
+        <speed>0</speed>
+        <heading>0.00</heading>
+        <sat>0</sat>
+        <status>9202</status>
+    </trkpt>
+    <trkpt lat="24.2283592" lon="120.6882150">
+        <node>61</node>
+        <fix>0</fix>
+        <mode>9202</mode>
+        <time>2024-01-03T03:09:13Z</time>
+        <ele>188</ele>
+        <speed>0</speed>
+        <heading>0.00</heading>
+        <sat>0</sat>
+        <status>9202</status>
+    </trkpt>
+    <trkpt lat="24.2283592" lon="120.6882150">
+        <node>62</node>
+        <fix>0</fix>
+        <mode>9202</mode>
+        <time>2024-01-03T03:09:28Z</time>
+        <ele>188</ele>
+        <speed>0</speed>
+        <heading>0.00</heading>
+        <sat>0</sat>
+        <status>9202</status>
+    </trkpt>
+</trkseg>
+</trk>
+</gpx>

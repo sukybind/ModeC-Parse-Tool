@@ -1,0 +1,4 @@
+Area1 StopItem - 1
+Area2 Stopitem - 1
+Area3 StartItem -1、StopItem - 1
+Area4 StopItem - 1
